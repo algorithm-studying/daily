@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-//다른 풀이
+/* 다른 풀이
 class Solution {
     public int solution(int[] numbers) {
         int sum = 45;
@@ -21,3 +21,4 @@ class Solution {
         return sum;
     }
 }
+*/
