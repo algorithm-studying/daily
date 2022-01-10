@@ -9,6 +9,7 @@
   >  [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977), 
   >  [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889), 
   >  [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484), 
+  >  [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410), 
   >  []()
   
   +  ### Level 2
@@ -21,4 +22,5 @@
   +  ### Level 3
   >  [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), 
   >  [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904), 
+  >  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238), 
   >  []()
