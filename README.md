@@ -18,7 +18,7 @@
   >  [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941), 
   >  [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065), 
   >  [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899), 
-  >  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/72410)
+  >  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
   >  []()
   
   +  ### Level 3
