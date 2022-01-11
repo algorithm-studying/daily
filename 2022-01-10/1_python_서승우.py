@@ -11,4 +11,5 @@ def solution(lottos, win_nums):
     
     answer[0] = result[match_cnt + zero_cnt]
     answer[1] = result[match_cnt]
+    
     return answer
