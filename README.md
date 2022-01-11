@@ -10,6 +10,7 @@
   >  [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889), 
   >  [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484), 
   >  [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410), 
+  >  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
   >  []()
   
   +  ### Level 2
@@ -17,6 +18,7 @@
   >  [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941), 
   >  [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065), 
   >  [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899), 
+  >  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/72410)
   >  []()
   
   +  ### Level 3
