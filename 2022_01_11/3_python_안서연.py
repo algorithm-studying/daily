@@ -24,7 +24,7 @@
 def solution(n, times):
     answer = 0
     
-    minimum = 1
+    minimum = 0
     maximum = max(times) * n
     
     while(minimum < maximum):
