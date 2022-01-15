@@ -22,6 +22,6 @@ def solution(w,h):
     #최대 공약수 구하기 2(유클리드 호제법)
 
 def Euclidean(x, y):
-    if x == 0: return y
+    if y == 0: return x
     else:
-        return (x%y, y)
+        return Euclidean(y, x%y)
