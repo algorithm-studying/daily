@@ -53,7 +53,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899), 
   >  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586),
   >  [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860),
-  >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048),
+  >  [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302),
   >  []()
   
   +  ### Level 3
