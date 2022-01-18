@@ -44,7 +44,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256), 
   >  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862),
   >  [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947),
-  >  []()
+  >  [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
