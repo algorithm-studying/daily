@@ -61,4 +61,4 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904), 
   >  [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238), 
   >  [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303), 
-  >  []()
+  >  [n-queen](https://programmers.co.kr/learn/courses/30/lessons/12952)
