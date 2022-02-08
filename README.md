@@ -49,6 +49,8 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950),
   >  [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930),
   >  [예산](https://programmers.co.kr/learn/courses/30/lessons/12982),
+  >  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906),
+  >  [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
@@ -59,6 +61,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860),
   >  [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302),
   >  [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577),
+  >  [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583),
   
   +  ### Level 3
   >  [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), 
@@ -67,4 +70,4 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303), 
   >  [n-queen](https://programmers.co.kr/learn/courses/30/lessons/12952),
   >  [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162),
-  >  
+  >  [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105),
