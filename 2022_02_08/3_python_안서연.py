@@ -14,7 +14,7 @@ def solution(triangle):
             if((i,j) == (0,0)):
                     continue
             if(matrix[inum][j] >= 0):
-                matrix[inum][j] = max(matrix[inum][j]+matrix[inum-1][j], matrix[inum][j]+matrix[inum][j-1])
+                matrix[inum][j] = max( matrix[inum][j]+matrix[inum-1][j], matrix[inum][j]+matrix[inum][j-1] )
                 j += 1
     
     answer = max([max(m) for m in matrix])
