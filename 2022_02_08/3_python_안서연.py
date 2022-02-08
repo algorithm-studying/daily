@@ -14,16 +14,7 @@ def solution(triangle):
             if((i,j) == (0,0)):
                     continue
             if(matrix[inum][j] >= 0):
-                if(inum-1 >= 0):
-                    case_a = matrix[inum][j] + matrix[inum-1][j]
-                else:
-                    case_a = matrix[inum][j]
-                if(j-1 >= 0):
-                    case_b = matrix[inum][j] + matrix[inum][j-1]
-                else:
-                    case_b = matrix[inum][j]
-                
-                matrix[inum][j] = max(case_a,case_b)
+                matrix[inum][j] = max(matrix[inum][j]+matrix[inum-1][j],matrix[inum][j]+matrix[inum][j-1])
                 j += 1
     
     answer = max([max(m) for m in matrix])
