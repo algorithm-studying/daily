@@ -8,3 +8,7 @@ def solution(s):
     else:
         answer = False
     return answer
+
+#다른 사람 코드
+def alpha_string46(s):
+    return s.isdigit() and len(s) in (4, 6)
