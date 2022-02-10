@@ -7,12 +7,8 @@ def solution(record):
         check = r.split()
         
         if check[0] == 'Enter':
-            if check[1] in user:
-                user[check[1]] = check[2]
-                string.append([check[1],'님이 들어왔습니다.'])
-            else:
-                user[check[1]] = check[2]
-                string.append([check[1],'님이 들어왔습니다.'])
+            user[check[1]] = check[2]
+            string.append([check[1],'님이 들어왔습니다.'])
                 
         elif check[0] == 'Leave':
             string.append([check[1],'님이 나갔습니다.'])
