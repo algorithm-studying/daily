@@ -7,7 +7,7 @@
 화목 _ 레벨1 : 1문제 && 레벨3 : 1문제 총 2문제**                                                                             
 일주일 총 10문제 진행.             
                  
-      문제는 프로필 가나다 순으로 돌아가면서 정합니다.
+      문제는 이름 가나다 순으로 돌아가면서 정합니다.
       방장봇 제외 ><
    
       **날짜는 _(언더바)로 구분해주세요 ex) `2022_01_11`         
@@ -51,6 +51,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [예산](https://programmers.co.kr/learn/courses/30/lessons/12982),
   >  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906),
   >  [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918),
+  >  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
@@ -62,6 +63,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302),
   >  [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577),
   >  [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583),
+  >  [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888),
   
   +  ### Level 3
   >  [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), 
