@@ -13,7 +13,7 @@ def solution(numbers, hand):
             right = number
             answer += "R"
         elif number in [2,5,8,0]:
-            number = 11 if number == 0 else number #왜 그런 것이지?
+            number = 11 if number == 0 else number 
             leftDist = abs(number - left)
             rightDist = abs(number - right)
             if leftDist // 3 + leftDist % 3 < rightDist // 3 + rightDist % 3:
