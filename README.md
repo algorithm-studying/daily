@@ -54,6 +54,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840),
   >  [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910),
   >  [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903),
+  >  [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
@@ -77,3 +78,4 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162),
   >  [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105),
   >  [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189),
+  >  [있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043),
