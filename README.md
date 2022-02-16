@@ -56,6 +56,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903),
   >  [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845),
   >  [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948),
+  >  [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
@@ -69,6 +70,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583),
   >  [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888),
   >  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587),
+  >  [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584),
   
   +  ### Level 3
   >  [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), 
