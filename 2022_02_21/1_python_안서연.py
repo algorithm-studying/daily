@@ -12,7 +12,6 @@ def solution(s):
                 '9':'nine'}
     
     for i in range(10):
-        print(dict_num[str(i)],str(i))
         s = s.replace(dict_num[str(i)],str(i))
     
     answer = int(s)
