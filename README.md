@@ -58,6 +58,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948),
   >  [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334),
   >  [내적](https://programmers.co.kr/learn/courses/30/lessons/70128),
+  >  [숫자문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301),
   >  [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501),
 
   +  ### Level 2
@@ -73,6 +74,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888),
   >  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587),
   >  [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584),
+  >  [루시와 엘라찾기 (sql)](https://programmers.co.kr/learn/courses/30/lessons/59046),
   
   +  ### Level 3
   >  [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), 
