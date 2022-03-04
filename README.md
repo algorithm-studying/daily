@@ -61,6 +61,9 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [숫자문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301),
   >  [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501),
   >  [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884),
+  >  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389),
+  >  [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919),
+  >  [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
@@ -77,6 +80,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584),
   >  [루시와 엘라찾기 (sql)](https://programmers.co.kr/learn/courses/30/lessons/59046),
   >  [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626),
+  >  [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842),
   
   +  ### Level 3
   >  [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), 
@@ -91,3 +95,5 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343),
   >  [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579),
   >  [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628),
+  >  [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927),
+  >  [2xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900),
