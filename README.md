@@ -64,7 +64,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389),
   >  [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919),
   >  [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922),
-  >  [듀 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912),
+  >  [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
