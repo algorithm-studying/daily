@@ -66,6 +66,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922),
   >  [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912),
   >  [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916),
+  >  [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
@@ -101,3 +102,4 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927),
   >  [2xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900),
   >  [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627),
+  >  [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163),
