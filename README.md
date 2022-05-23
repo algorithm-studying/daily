@@ -68,6 +68,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916),
   >  [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034),
   >  [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901),
+  >  [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
