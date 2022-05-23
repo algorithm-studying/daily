@@ -88,6 +88,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842),
   >  [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057),
   >  [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052),
+  >  [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165),
   
   +  ### Level 3
   >  [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), 
