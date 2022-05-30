@@ -69,6 +69,8 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034),
   >  [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901),
   >  [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935),
+  >  [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644),
+  >  [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915),
 
   +  ### Level 2
   >  [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048), 
@@ -89,6 +91,7 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057),
   >  [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052),
   >  [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165),
+  >  [점프와 순간이동](https://programmers.co.kr/learn/courses/30/lessons/12980),
   
   +  ### Level 3
   >  [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898), 
@@ -107,3 +110,4 @@ GIT 아이디는 카톡 공지사항 중 GIT 아이디 칸에 댓글로 적어�
   >  [2xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900),
   >  [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627),
   >  [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163),
+  >  [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164),
